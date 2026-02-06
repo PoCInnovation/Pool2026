@@ -1,0 +1,17 @@
+TechCorp: Products and Technology
+
+MedAI - Diagnostic Assistant
+
+MedAI is TechCorp's flagship product, launched in early 2022. It is an AI-powered diagnostic assistant designed to help radiologists and physicians analyze medical images more efficiently and accurately. The system supports three types of medical imaging: X-rays, MRIs, and CT scans. In clinical trials conducted across 12 hospitals in the United States and Europe, MedAI achieved a diagnostic accuracy rate of 95%, which is comparable to the performance of experienced radiologists with over 15 years of practice.
+
+The technology behind MedAI is based on a proprietary deep learning architecture that combines convolutional neural networks with transformer-based attention mechanisms. The model was trained on a dataset of over 2 million anonymized medical images, carefully curated in partnership with Stanford Medical Center and Johns Hopkins Hospital. Each image in the training set was annotated by at least three board-certified radiologists to ensure label quality.
+
+MedAI integrates directly into hospital PACS (Picture Archiving and Communication System) workflows through standard DICOM protocols. This means doctors don't need to change their existing workflow to use the tool. The system highlights areas of concern in medical images, provides a confidence score for each finding, and generates a preliminary report that the radiologist can review and edit. Processing time is under 30 seconds per image, significantly faster than manual analysis which can take 15-20 minutes per case.
+
+MedAI Pro - Enterprise Solution
+
+In September 2023, TechCorp launched MedAI Pro, an enterprise version of the product designed for large hospital networks. MedAI Pro includes all features of the standard version plus advanced analytics dashboards, multi-site deployment support, custom model fine-tuning for specific patient populations, and a collaboration module that allows radiologists across different locations to discuss cases in real-time. The enterprise solution also includes a dedicated support team and guaranteed 99.9% uptime SLA.
+
+PathAI - Pathology Module (Beta)
+
+TechCorp announced PathAI in November 2023, a new module focused on digital pathology. Still in beta testing, PathAI analyzes tissue sample images to assist pathologists in detecting cancerous cells. Early results from pilot programs at three hospitals show a 92% accuracy rate for detecting breast cancer in biopsy samples. The full launch is planned for Q2 2024.
