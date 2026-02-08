@@ -1,6 +1,6 @@
 # ~ PoC AI Pool 2025 ~
 
-- ## Day 2: Understand Machine Learning
+- ## Day 3: Understand Machine Learning
   - ### Module 1: Linear Regression
     - **Notebook:** [`linear_regression.ipynb`](<1 - Regression/linear_regression.ipynb>)
   - ### Module 2: Logistic Regression

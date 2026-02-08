@@ -1,6 +1,6 @@
 # ~ PoC AI Pool 2025 ~
 
-- ## Day 3: Neural Networks
+- ## Day 4: Neural Networks
   - ### Module 1: Torch
     - **Notebook:** [`introduction_to_torch.ipynb`](<1 - Torch/Introduction_Torch.ipynb>)
   - ### Module 2: Vision models

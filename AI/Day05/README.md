@@ -1,6 +1,6 @@
 # ~ PoC AI Pool 2025 ~
 
-- ## Day 4: Reinforcement Learning
+- ## Day 5: Reinforcement Learning
   - ### Module 1: Q Learning
     - **Notebook:** [`Q_Learning.ipynb`](./1.Introduction/Q_Learning.ipynb)
   - ### Module 2: REINFORCE
