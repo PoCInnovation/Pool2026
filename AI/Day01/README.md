@@ -1,4 +1,4 @@
-# ~ PoC AI Pool 2025 ~
+# ~ PoC AI Pool 2026 ~
 
 - ## Day 1: Python Basics
   - ### Module 1: Python
