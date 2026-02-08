@@ -1,0 +1,9 @@
+TechCorp: Company Overview
+
+TechCorp is a leading artificial intelligence company headquartered in San Francisco, California. Founded in 2020 by Alice Johnson and Bob Smith, the company has quickly established itself as a pioneer in the application of AI to healthcare. The two co-founders met while working at Google's DeepMind division, where they collaborated on medical imaging research. Frustrated by the slow adoption of AI in clinical settings, they decided to launch their own venture with a clear mission: make medical diagnosis more accurate, faster, and accessible to healthcare providers worldwide.
+
+Since its founding, TechCorp has experienced remarkable growth. The company started with just two people working out of a small office in the Mission District of San Francisco. By the end of 2021, the team had grown to 30 employees. In 2022, the headcount reached 80, and by late 2023, TechCorp employed over 150 people across two offices. The San Francisco headquarters houses the engineering and research teams, while the London office, opened in mid-2022, focuses on European business development and regulatory compliance.
+
+TechCorp's corporate culture emphasizes innovation, collaboration, and a patient-first mindset. Every quarter, the company hosts "Health Hack Week," where employees from all departments work on experimental projects that could improve patient outcomes. Several of TechCorp's current product features originated from these hackathon events. The company also maintains partnerships with three major university hospitals for clinical validation of its AI models.
+
+The leadership team includes CEO Alice Johnson, CTO Bob Smith, CFO Maria Garcia (formerly at Goldman Sachs), and VP of Product David Chen (formerly at Apple Health). The board of directors includes representatives from Sequoia Capital and two independent healthcare industry experts.

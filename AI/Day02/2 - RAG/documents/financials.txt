@@ -1,0 +1,17 @@
+TechCorp: Financial Information and Funding History
+
+Seed Round (2020)
+TechCorp raised its initial seed funding of $2 million in August 2020, just three months after incorporation. The round was led by Y Combinator, with participation from several angel investors including former Google Health executives. This funding was used to build the initial prototype of MedAI and hire the first five engineers.
+
+Series A (2021)
+In December 2021, TechCorp closed a $12 million Series A round led by Andreessen Horowitz (a16z). The round valued the company at $60 million. At this point, MedAI had completed its first clinical trial with promising results, and the company had signed letters of intent with four hospital systems. The Series A funding was allocated primarily to expanding the engineering team, scaling cloud infrastructure, and initiating the FDA approval process for MedAI.
+
+Series B (2023)
+The most significant funding milestone came in June 2023, when TechCorp raised $50 million in a Series B round led by Sequoia Capital, with participation from existing investors a16z and Y Combinator. The company was valued at $300 million, a 5x increase from the Series A valuation. This round attracted significant attention in the healthcare AI space and was covered extensively by TechCrunch, Bloomberg, and CNBC.
+
+Revenue and Growth
+TechCorp generated its first revenue in mid-2022 when MedAI became commercially available. The company's revenue for fiscal year 2022 was $10 million, primarily from subscription contracts with hospital systems in the United States. In 2023, revenue grew to $25 million, representing a 150% year-over-year increase. This growth was driven by expansion into European markets through the London office, the launch of MedAI Pro, and increasing adoption among mid-sized hospitals. The company projects revenue of $60 million for 2024, driven by the Asia expansion and the full launch of PathAI.
+
+TechCorp operates on a SaaS (Software as a Service) model, charging hospitals an annual subscription fee based on the number of imaging studies processed. Pricing ranges from $50,000 per year for small clinics to over $500,000 per year for large hospital networks using MedAI Pro. The company's gross margin is approximately 75%, which is strong for a healthcare SaaS business.
+
+The company has not yet reached profitability, with a net loss of $15 million in 2023. However, management expects to reach break-even by the end of 2025, assuming current growth rates continue and operating expenses are managed carefully. The $50 million Series B funding provides sufficient runway through 2026.
